@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a 19 year old self-taught frontend developer and currently learning about backend.
 <!--
 **Claynade/Claynade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
