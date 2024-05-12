@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 I am a 19 year old self-taught frontend developer and currently learning about backend.
 <!--
